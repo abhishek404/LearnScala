@@ -1,0 +1,72 @@
+products:
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\chapter\builtInControlStrutures\CaseClassEx.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\chapter\builtInControlStrutures\CaseClassEx$.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\chapter\builtInControlStrutures\CaseClassEx.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\chapter\builtInControlStrutures\CaseClassEx.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtion\and\closures\FuntionLiterals.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\funtion\and\closures\FuntionLiterals$.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtion\and\closures\FuntionLiterals.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\funtion\and\closures\FuntionLiterals.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtion\and\closures\RepeatedParameter.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\funtion\and\closures\RepeatedParameter$.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtion\and\closures\RepeatedParameter.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\funtion\and\closures\RepeatedParameter.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtional\objects\smallPrograms\MainClass.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\funtional\objects\smallPrograms\MainClass$.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtional\objects\smallPrograms\MainClass.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\funtional\objects\smallPrograms\MainClass.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtional\objects\smallPrograms\Rational.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\funtional\objects\smallPrograms\Rational.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaArray.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\next\step\in\scala\ScalaArray$.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaArray.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\next\step\in\scala\ScalaArray.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaList.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\next\step\in\scala\ScalaList$.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaList.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\next\step\in\scala\ScalaList.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaMap.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\next\step\in\scala\ScalaMap$.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaMap.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\next\step\in\scala\ScalaMap.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaSet.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\next\step\in\scala\ScalaSet$.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaSet.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\next\step\in\scala\ScalaSet.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaTuple.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\next\step\in\scala\ScalaTuple$.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaTuple.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\next\step\in\scala\ScalaTuple.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\TestNewClass.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\TestNewClass$.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\TestNewClass.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\TestNewClass$delayedInit$body.class
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\TestNewClass.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\build\classes\scala\main\TestNewClass.class
+binary dependencies:
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\chapter\builtInControlStrutures\CaseClassEx.scala -> C:\Program Files\Java\jdk1.8.0_241\jre\lib\rt.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\chapter\builtInControlStrutures\CaseClassEx.scala -> C:\Users\abhishek.gupta\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.12\ea37f7d72b5b9332279a24f7856de4043b60bdc0\scala-library-2.12.12.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtion\and\closures\FuntionLiterals.scala -> C:\Program Files\Java\jdk1.8.0_241\jre\lib\rt.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtion\and\closures\FuntionLiterals.scala -> C:\Users\abhishek.gupta\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.12\ea37f7d72b5b9332279a24f7856de4043b60bdc0\scala-library-2.12.12.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtion\and\closures\RepeatedParameter.scala -> C:\Program Files\Java\jdk1.8.0_241\jre\lib\rt.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtion\and\closures\RepeatedParameter.scala -> C:\Users\abhishek.gupta\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.12\ea37f7d72b5b9332279a24f7856de4043b60bdc0\scala-library-2.12.12.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtional\objects\smallPrograms\MainClass.scala -> C:\Program Files\Java\jdk1.8.0_241\jre\lib\rt.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtional\objects\smallPrograms\MainClass.scala -> C:\Users\abhishek.gupta\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.12\ea37f7d72b5b9332279a24f7856de4043b60bdc0\scala-library-2.12.12.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtional\objects\smallPrograms\Rational.scala -> C:\Program Files\Java\jdk1.8.0_241\jre\lib\rt.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtional\objects\smallPrograms\Rational.scala -> C:\Users\abhishek.gupta\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.12\ea37f7d72b5b9332279a24f7856de4043b60bdc0\scala-library-2.12.12.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaArray.scala -> C:\Program Files\Java\jdk1.8.0_241\jre\lib\rt.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaArray.scala -> C:\Users\abhishek.gupta\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.12\ea37f7d72b5b9332279a24f7856de4043b60bdc0\scala-library-2.12.12.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaList.scala -> C:\Program Files\Java\jdk1.8.0_241\jre\lib\rt.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaList.scala -> C:\Users\abhishek.gupta\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.12\ea37f7d72b5b9332279a24f7856de4043b60bdc0\scala-library-2.12.12.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaMap.scala -> C:\Program Files\Java\jdk1.8.0_241\jre\lib\rt.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaMap.scala -> C:\Users\abhishek.gupta\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.12\ea37f7d72b5b9332279a24f7856de4043b60bdc0\scala-library-2.12.12.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaSet.scala -> C:\Program Files\Java\jdk1.8.0_241\jre\lib\rt.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaSet.scala -> C:\Users\abhishek.gupta\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.12\ea37f7d72b5b9332279a24f7856de4043b60bdc0\scala-library-2.12.12.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaTuple.scala -> C:\Program Files\Java\jdk1.8.0_241\jre\lib\rt.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaTuple.scala -> C:\Users\abhishek.gupta\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.12\ea37f7d72b5b9332279a24f7856de4043b60bdc0\scala-library-2.12.12.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\TestNewClass.scala -> C:\Program Files\Java\jdk1.8.0_241\jre\lib\rt.jar
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\TestNewClass.scala -> C:\Users\abhishek.gupta\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.12\ea37f7d72b5b9332279a24f7856de4043b60bdc0\scala-library-2.12.12.jar
+source dependencies:
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtional\objects\smallPrograms\MainClass.scala -> C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtional\objects\smallPrograms\Rational.scala
+external dependencies:
+class names:
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\chapter\builtInControlStrutures\CaseClassEx.scala -> chapter.builtInControlStrutures.CaseClassEx
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\chapter\builtInControlStrutures\CaseClassEx.scala -> chapter.builtInControlStrutures.CaseClassEx$
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtion\and\closures\FuntionLiterals.scala -> funtion.and.closures.FuntionLiterals
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtion\and\closures\FuntionLiterals.scala -> funtion.and.closures.FuntionLiterals$
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtion\and\closures\RepeatedParameter.scala -> funtion.and.closures.RepeatedParameter
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtion\and\closures\RepeatedParameter.scala -> funtion.and.closures.RepeatedParameter$
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtional\objects\smallPrograms\MainClass.scala -> funtional.objects.smallPrograms.MainClass
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtional\objects\smallPrograms\MainClass.scala -> funtional.objects.smallPrograms.MainClass$
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\funtional\objects\smallPrograms\Rational.scala -> funtional.objects.smallPrograms.Rational
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaArray.scala -> next.step.in.scala.ScalaArray
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaArray.scala -> next.step.in.scala.ScalaArray$
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaList.scala -> next.step.in.scala.ScalaList
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaList.scala -> next.step.in.scala.ScalaList$
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaMap.scala -> next.step.in.scala.ScalaMap
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaMap.scala -> next.step.in.scala.ScalaMap$
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaSet.scala -> next.step.in.scala.ScalaSet
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaSet.scala -> next.step.in.scala.ScalaSet$
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaTuple.scala -> next.step.in.scala.ScalaTuple
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\next\step\in\scala\ScalaTuple.scala -> next.step.in.scala.ScalaTuple$
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\TestNewClass.scala -> TestNewClass
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\TestNewClass.scala -> TestNewClass$
+   C:\Users\abhishek.gupta\ScalaProject\LearnScala\src\main\scala\TestNewClass.scala -> TestNewClass$delayedInit$body

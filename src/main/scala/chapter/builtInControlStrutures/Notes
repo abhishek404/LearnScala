@@ -1,0 +1,3 @@
+The default case is specified with
+an underscore (_), a wildcard symbol frequently used in Scala as a
+placeholder for a completely unknown value.
